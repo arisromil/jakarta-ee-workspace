@@ -47,6 +47,12 @@
       <version>8.0</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-entitymanager</artifactId>
+      <version>5.2.10.Final</version>
+      <scope>runtime</scope>
+    </dependency>
 
 
   </dependencies>
